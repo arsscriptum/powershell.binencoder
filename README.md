@@ -162,3 +162,10 @@ Test-InvokeEncodeBinary -Path ".\data\SkatesMov.mp4" -Mode "dll"
 
 * Restored files are saved in your system temp folder with unique filenames to avoid overwriting.
 * For large binaries, adjust `-MaxChunkLength` to avoid extremely large single-line strings.
+
+## DEMO
+
+
+![demo](img/demo.gif)
+
+![demo1](img/demo1.gif)
